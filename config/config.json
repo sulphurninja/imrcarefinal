@@ -1,0 +1,60 @@
+{
+  "site": {
+    "title": "Imr Care",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_white": "/images/logo.png",
+    "logo_width": "58",
+    "logo_height": "39",
+    "logo_text": "Imr care"
+  },
+  "settings": {
+    "theme_switcher": true,
+    "default_theme": "system",
+    "pagination": 6,
+    "InnerPaginationOptions": {
+      "enableTop": false,
+      "enableBottom": true
+    },
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+  "params": {
+    "tag_manager_id": "",
+    "footer_content": "The intelligent choice for mobile & smartphone repair, backed by a team of expert certified technicians.",
+    "copyright": "All Rights Reserved [IMR Care](https://imrcare.com/)"
+  },
+  "metadata": {
+    "meta_author": "IMR Care",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "IMR Care - Mobile Repair & Care - The Expert Option for all your mobile repairs and accessory needs!"
+  },
+  "widgets": {
+    "about": {
+      "enable": true,
+      "content": "The intelligent choice for mobile & smartphone repair, backed by a team of expert certified technicians."
+    },
+    "featured_posts": {
+      "enable": true,
+      "title": "Blog Categories",
+      "showPost": 3
+    },
+    "categories": {
+      "enable": true,
+      "title": "Blog Categories"
+    },
+    "newsletter": {
+      "enable": true,
+      "title": "Newsletter",
+      "content": "Join thousands of Tiny Salt subscribers and get our best recipes delivered each week!",
+      "privacy_policy_page": "#",
+      "malichipm_url": ""
+    }
+  },
+  "disqus": {
+    "enable": true,
+    "shortname": "themefisher-template",
+    "settings": {}
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Repair",
+      "url": "/repair"
+    },
+    {
+      "name": "Accessories",
+      "url": "/accessories"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    },
+    {
+      "name": "Shop",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "Mobile Cases & Covers",
+          "url": "/accessories"
+        },
+        {
+          "name": "Mobile Accessories",
+          "url": "/accessories"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Repair",
+      "url": "/repair"
+    },
+    {
+      "name": "Accessories",
+      "url": "/accessories"
+    },
+    {
+      "name": "Privacy Policy",
+      "url": "#"
+    }
+  ]
+}
